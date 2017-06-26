@@ -37,7 +37,6 @@ class Sender implements Runnable{
     }
   }
 }
-
 // java ChatClient ホスト名 ポート番号
 // と呼び出す
 class ChatClient{
